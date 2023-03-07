@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### :space_invader: Stats for the nerds
 
-<br><br>
+<br>
 
 <p align="center">
 	
