@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **khanh245/khanh245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### about me:
+TBD
+
+### projects:
+TBD
+
+### work experience:
+TBD
+
+### ✌ connect w/ me : 
+* [LinkedIn](https://www.linkedin.com/in/khanhn92) - to connect one-on-one and career updates.
+* [Email](kultimate1992@gmail.com) - for detailed queries, collaboration requests, or opportunities.
 
 ### :space_invader: Stats for the nerds
 
