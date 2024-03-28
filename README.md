@@ -36,8 +36,8 @@ TBD
 <br>
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=khanh245&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=khanh245&theme=tokyonight" />
+  <img height=200 width="48%" src="https://github-readme-stats.vercel.app/api?username=khanh245&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height=200 width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanh245&theme=tokyonight" />
 </p>
 
 <p align="center">
