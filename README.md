@@ -1,39 +1,45 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**khanh245/khanh245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 about me:
 
-Here are some ideas to get you started:
+## 🌐 programming languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <!-- Replace with your skills -->
+    <img src="https://img.shields.io/static/v1?label=&message=.NET&color=%23512BD4&style=for-the-badge" alt=".NET">
+	<img src="https://img.shields.io/static/v1?label=&message=+HTML&color=%233366CC&style=for-the-badge&logo=htmx&logoColor=white" alt=" HTML">
+    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=white" alt="React">
+	<img src="https://img.shields.io/static/v1?label=&message=+CSS&color=%231572B6&style=for-the-badge&logo=css3&logoColor=white" alt=" CSS">
+    <!-- Add more badges similarly -->
+</div>
 
-### about me:
+## ⚽ projects:
+
 TBD
 
-### projects:
+## 🏢 work experience:
+
 TBD
 
-### work experience:
-TBD
+## 🤝 connect w/ me : 
 
-### ✌ connect w/ me : 
-* [LinkedIn](https://www.linkedin.com/in/khanhn92) - to connect one-on-one and career updates.
-* [Email](kultimate1992@gmail.com) - for detailed queries, collaboration requests, or opportunities.
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/khanhn92/">
+        <img src="https://img.shields.io/static/v1?label=&message=+KHANHN92&color=%230A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 
 ### :space_invader: Stats for the nerds
 
 <br>
 
 <p align="center">
-	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=khanh245&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanh245&theme=tokyonight" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=khanh245&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=khanh245&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanh245&layout=compact&theme=tokyonight" />
 </p>
