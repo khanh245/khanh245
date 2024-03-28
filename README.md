@@ -1,6 +1,6 @@
-![Header](./image.png)
+![Header](./header.png)
 
-
+<br />
 
 ## 🚀 about me
 
