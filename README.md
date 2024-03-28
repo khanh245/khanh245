@@ -1,28 +1,45 @@
 # Hi there 👋
 
-## 🚀 about me:
+## 🚀 about me
 
-## 🌐 programming languages:
+Innovative software engineer with a passion for crafting elegant solutions and transforming ideas into reality. A strategic thinker and problem solver, I love challenges and collaboration to build remarkable software products! Let's connect and duke it out in code!
+
+## 💻 programming languages
+
+Over the past years, I have developed a set of development arsenal to create beautiful solutions to complex and difficult problems. Here are the languages that I ❤️ the most,
 
 <div align="center">
-    <!-- Replace with your skills -->
     <img src="https://img.shields.io/static/v1?label=&message=.NET&color=%23512BD4&style=for-the-badge" alt=".NET">
 	<img src="https://img.shields.io/static/v1?label=&message=+HTML&color=%233366CC&style=for-the-badge&logo=htmx&logoColor=white" alt=" HTML">
-    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-    <img src="https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=black" alt="React">
 	<img src="https://img.shields.io/static/v1?label=&message=+CSS&color=%231572B6&style=for-the-badge&logo=css3&logoColor=white" alt=" CSS">
-    <!-- Add more badges similarly -->
 </div>
 
-## ⚽ projects:
+<div align="center">
+    <img src="https://img.shields.io/static/v1?label=&message=PYTHON&color=%233776AB&style=for-the-badge&logo=python&logoColor=white" alt="PYTHON">
+	<img src="https://img.shields.io/static/v1?label=&message=POWERSHELL&color=%235391FE&style=for-the-badge&logo=powershell&logoColor=black" alt="POWERSHELL">
+    <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+</div>
+
+## 🤖 technology
+
+<div align="center">
+    <img src="https://img.shields.io/static/v1?label=&message=WINDOWS&color=%230078D4&style=for-the-badge&logo=windows&logoColor=white" alt="WINDOWS">
+    <img src="https://img.shields.io/static/v1?label=&message=LINUX&color=%23FCC624&style=for-the-badge&logo=linux&logoColor=black" alt="LINUX">
+    <img src="https://img.shields.io/static/v1?label=&message=ANDROID&color=%2334A853&style=for-the-badge&logo=android&logoColor=white" alt="ANDROID">
+    <img src="https://img.shields.io/static/v1?label=&message=iPHONE&color=%23000000&style=for-the-badge&logo=apple&logoColor=white" alt="iPHONE">
+</div>
+
+## ⚽ projects
 
 TBD
 
-## 🏢 work experience:
+## 🏢 work experience
 
 TBD
 
-## 🤝 connect w/ me : 
+## 🤝 connect w/ me
 
 <div align="center">
     <!-- Replace href with your links -->
@@ -31,9 +48,7 @@ TBD
     </a>
 </div>
 
-### :space_invader: Stats for the nerds
-
-<br>
+### 👾 stats for the nerds
 
 <p align="center">
   <img height=200 width="48%" src="https://github-readme-stats.vercel.app/api?username=khanh245&count_private=true&show_icons=true&theme=tokyonight" />
