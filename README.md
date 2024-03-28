@@ -1,4 +1,6 @@
-# Hi there 👋
+![Header](./github-header-image.png)
+
+<br />
 
 ## 🚀 about me
 
