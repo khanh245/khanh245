@@ -6,6 +6,8 @@
 
 Innovative software engineer with a passion for crafting elegant solutions and transforming ideas into reality. A strategic thinker and problem solver, I love challenges and collaboration to build remarkable software products! Let's connect and duke it out in code!
 
+<br />
+
 ## 💻 programming languages
 
 Over the past years, I have developed a set of development arsenal to create beautiful solutions to complex and difficult problems. Here are the languages that I ❤️ the most,
@@ -24,6 +26,8 @@ Over the past years, I have developed a set of development arsenal to create bea
     <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
 </div>
 
+<br />
+
 ## 🤖 technology
 
 <div align="center">
@@ -33,13 +37,19 @@ Over the past years, I have developed a set of development arsenal to create bea
     <img src="https://img.shields.io/static/v1?label=&message=iPHONE&color=%23000000&style=for-the-badge&logo=apple&logoColor=white" alt="iPHONE">
 </div>
 
+<br />
+
 ## ⚽ projects
 
 TBD
 
+<br />
+
 ## 🏢 work experience
 
 TBD
+
+<br />
 
 ## 🤝 connect w/ me
 
@@ -49,6 +59,8 @@ TBD
         <img src="https://img.shields.io/static/v1?label=&message=+KHANHN92&color=%230A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
+
+<br />
 
 ### 👾 stats for the nerds
 
