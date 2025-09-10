@@ -25,16 +25,16 @@ I thrive at the intersection of **strategy and execution**—whether it’s arch
 With over 14 years of experience, I’ve developed a **versatile toolkit of programming languages** that enables me to build reliable, scalable, and high-performance solutions across web, desktop, mobile, and cloud platforms.  
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=C%23%20/.NET&color=%23512BD4&style=for-the-badge&logo=dotnet&logoColor=white" alt="C#/.NET">
-    <img src="https://img.shields.io/static/v1?label=&message=C++&color=%2300599C&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=black" alt="React">
-    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/static/v1?label=&message=PowerShell&color=%235391FE&style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-    <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
-    <img src="https://img.shields.io/static/v1?label=&message=SQL&color=%234479A1&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" alt="YAML" width="60" height="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="60" height="60"/>
 </div>
 
 <br />
