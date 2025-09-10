@@ -10,6 +10,17 @@ I thrive at the intersection of **strategy and execution**—whether it’s arch
 
 <br />
 
+## 💻 Core Skills & Expertise
+
+- **Programming Languages:** C++, C#, .NET / .NET Core, ASP.NET Core, Node.js, JavaScript, React, Python, PowerShell, SQL  
+- **Frameworks & Platforms:** WPF, Xamarin (Android/iOS), Web API (REST), WCF, SOAP, KnockoutJS, Aurelia, MERN Stack  
+- **Cloud & Infrastructure:** Microsoft Azure, AWS, Docker, Kubernetes, CI/CD (Jenkins, Azure DevOps, TFS, Bitbucket Pipelines)  
+- **Databases:** Microsoft SQL Server, MongoDB  
+- **Tools & Workflow:** Git, Jira, TFS, Azure DevOps, Visual Studio, VS Code, Agile/Scrum  
+
+<br />
+
+
 ## 💻 Programming Languages
 
 With over 14 years of experience, I’ve developed a **versatile toolkit of programming languages** that enables me to build reliable, scalable, and high-performance solutions across web, desktop, mobile, and cloud platforms.  
@@ -32,15 +43,6 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
 
 <br />
 
-## 💻 Core Skills & Expertise
-
-- **Programming Languages:** C++, C#, .NET / .NET Core, ASP.NET Core, Node.js, JavaScript, React, Python, PowerShell, SQL  
-- **Frameworks & Platforms:** WPF, Xamarin (Android/iOS), Web API (REST), WCF, SOAP, KnockoutJS, Aurelia, MERN Stack  
-- **Cloud & Infrastructure:** Microsoft Azure, AWS, Docker, Kubernetes, CI/CD (Jenkins, Azure DevOps, TFS, Bitbucket Pipelines)  
-- **Databases:** Microsoft SQL Server, MongoDB  
-- **Tools & Workflow:** Git, Jira, TFS, Azure DevOps, Visual Studio, VS Code, Agile/Scrum  
-
-<br />
 
 ## 🤖 Technologies & Platforms
 
@@ -53,9 +55,17 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
     <img src="https://img.shields.io/static/v1?label=&message=AWS&color=%23232F3E&style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/static/v1?label=&message=Docker&color=%232496ED&style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
     <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=%23326CE5&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/static/v1?label=&message=Jenkins&color=%232C5263&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/static/v1?label=&message=Azure%20DevOps&color=%230078D7&style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps">
+    <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=%2347A248&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/static/v1?label=&message=SQL%20Server&color=%234479A1&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+    <img src="https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/static/v1?label=&message=Bitbucket&color=%230052CC&style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+    <img src="https://img.shields.io/static/v1?label=&message=Jira&color=%230052CC&style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </div>
 
 <br />
+
 
 ## ⚽ Featured Projects
 
@@ -64,6 +74,7 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
 - **Mobile & Web Solutions** – Built cross-platform apps in React, React Native, and .NET APIs powering B2C and B2B products.  
 
 <br />
+
 
 ## 🏢 Work Experience
 
@@ -77,6 +88,7 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
 
 <br />
 
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -86,6 +98,7 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
 </div>
 
 <br />
+
 
 ### 👾 Stats for the Nerds
 
