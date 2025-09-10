@@ -20,7 +20,6 @@ I thrive at the intersection of **strategy and execution**—whether it’s arch
 
 <br />
 
-
 ## 💻 Programming Languages
 
 With over 14 years of experience, I’ve developed a **versatile toolkit of programming languages** that enables me to build reliable, scalable, and high-performance solutions across web, desktop, mobile, and cloud platforms.  
@@ -32,9 +31,6 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
     <img src="https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</div>
-
-<div align="center">
     <img src="https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/static/v1?label=&message=PowerShell&color=%235391FE&style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
@@ -42,7 +38,6 @@ With over 14 years of experience, I’ve developed a **versatile toolkit of prog
 </div>
 
 <br />
-
 
 ## 🤖 Technologies & Platforms
 
