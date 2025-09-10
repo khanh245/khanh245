@@ -12,20 +12,22 @@ I thrive at the intersection of **strategy and execution**—whether it’s arch
 
 ## 💻 Programming Languages
 
-Over the years, I’ve built a strong and diverse technical arsenal to deliver high-quality software. These are the languages I work with most:
+With over 14 years of experience, I’ve developed a **versatile toolkit of programming languages** that enables me to build reliable, scalable, and high-performance solutions across web, desktop, mobile, and cloud platforms.  
 
 <div align="center">
-    <img src="https://img.shields.io/static/v1?label=&message=.NET&color=%23512BD4&style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-	<img src="https://img.shields.io/static/v1?label=&message=HTML&color=%233366CC&style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/static/v1?label=&message=C%23%20/.NET&color=%23512BD4&style=for-the-badge&logo=dotnet&logoColor=white" alt="C#/.NET">
+    <img src="https://img.shields.io/static/v1?label=&message=C++&color=%2300599C&style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/static/v1?label=&message=React&color=%2361DAFB&style=for-the-badge&logo=react&logoColor=black" alt="React">
-	<img src="https://img.shields.io/static/v1?label=&message=CSS&color=%231572B6&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
 <div align="center">
     <img src="https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-	<img src="https://img.shields.io/static/v1?label=&message=PowerShell&color=%235391FE&style=for-the-badge&logo=powershell&logoColor=black" alt="PowerShell">
+    <img src="https://img.shields.io/static/v1?label=&message=PowerShell&color=%235391FE&style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+    <img src="https://img.shields.io/static/v1?label=&message=SQL&color=%234479A1&style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
 </div>
 
 <br />
