@@ -28,6 +28,14 @@ Over the years, I’ve built a strong and diverse technical arsenal to deliver h
     <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
 </div>
 
+## 💻 Core Skills & Expertise
+
+- **Programming Languages:** C++, C#, .NET / .NET Core, ASP.NET Core, Node.js, JavaScript, React, Python, PowerShell, SQL  
+- **Frameworks & Platforms:** WPF, Xamarin (Android/iOS), Web API (REST), WCF, SOAP, KnockoutJS, Aurelia, MERN Stack  
+- **Cloud & Infrastructure:** Microsoft Azure, AWS, Docker, Kubernetes, CI/CD (Jenkins, Azure DevOps, TFS, Bitbucket Pipelines)  
+- **Databases:** Microsoft SQL Server, MongoDB  
+- **Tools & Workflow:** Git, Jira, TFS, Azure DevOps, Visual Studio, VS Code, Agile/Scrum  
+
 <br />
 
 ## 🤖 Technologies & Platforms
