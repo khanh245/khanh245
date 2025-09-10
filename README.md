@@ -28,6 +28,8 @@ Over the years, I’ve built a strong and diverse technical arsenal to deliver h
     <img src="https://img.shields.io/static/v1?label=&message=YAML&color=%23CB171E&style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
 </div>
 
+<br />
+
 ## 💻 Core Skills & Expertise
 
 - **Programming Languages:** C++, C#, .NET / .NET Core, ASP.NET Core, Node.js, JavaScript, React, Python, PowerShell, SQL  
