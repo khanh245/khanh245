@@ -10,7 +10,7 @@ I thrive at the intersection of **strategy and execution**—whether it’s arch
 
 <br />
 
-## 💻 Core Skills & Expertise
+## ✨ Core Skills & Expertise
 
 - **Programming Languages:** C++, C#, .NET / .NET Core, ASP.NET Core, Node.js, JavaScript, React, Python, PowerShell, SQL  
 - **Frameworks & Platforms:** WPF, Xamarin (Android/iOS), Web API (REST), WCF, SOAP, KnockoutJS, Aurelia, MERN Stack  
